@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="settings.css">
+<link rel="stylesheet" href="resume.css">
+
 # Thomas Whitworth
 
 <div class="section headerInfo">
