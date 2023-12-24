@@ -5,14 +5,14 @@
 
 <div class="section headerInfo">
 
-- tommywhitworth@ymail.com 
+- tommywhitworth@ymail.com
 - (612) 432 5920
 - [Github](https://github.com/tswhitworth)
 - Kansas City, MO
 
 </div>
 
-## Experience
+## Professional Experience
 
 ### Senior Ambassador, Starcoin Blockchain <span class="spacer"></span> Mar 2022 &mdash; Present
 
@@ -24,6 +24,7 @@ Key role in nurturing and growing the open-source community
 
 - Organized and hosted virtual events, webinars, and workshops to educate and inform the community about the latest developments from the Starcoin Team.
 
+<br />
 
 ### Proof of Work Mining Operation, Founder <span class="spacer"></span> Nov 2017 &mdash; Present
 
@@ -33,18 +34,19 @@ Founded and managed ASIC/FPGA/GPU mining operation since 2017
 - Applied overclocking techniques to optimize hardware performance to achieve higher hash rates and enhance overall mining efficiency.
 - Effectively manage operational costs, including electricity consumption and equipment maintenance expenses, to maximize profitability.
 
+<br />
+
 ## Education
 
-### Johnson County Community College
 ### Associates in Applied Science, Computer Information Systems<span class="spacer"></span> 2021 &mdash; 2023
+### Johnson County Community College
 
 
 ## Training
 
+- **Course:** [A Beginner's Guide to Open Source Software Development](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/ec5b4d05-4c83-46c0-bcf2-42a048cba738-thomas-whitworth-81c0dfe6-a987-4baf-b0ab-b2c2cf0938c9-certificate.pdf) | **Provider:** Linux Foundation
 
-- **Course:** [A Beginner's Guide to Open Source Software Development](https://trainingportal.linuxfoundation.org/courses/a-beginners-guide-to-open-source-software-development-lfc102) | **Provider:** Linux Foundation
-
-- **Course:** [Introduction to Kubernetes](https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-kubernetes) | **Provider:** Linux Foundation
+- **Course:** [Kubernetes and Cloud Native Essentials](https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-kubernetes) | **Provider:** Linux Foundation
 
 ## Current Projects
 
@@ -56,6 +58,8 @@ Founded and managed ASIC/FPGA/GPU mining operation since 2017
 
 - [Advent of Code 2023](https://github.com/tswhitworth/Advent-of-Code) (Go)
 
+<br />
+
 ## Frontend Skills
 
 - Javascript/TypeScript: Async/Await/Promise pattern for web requests, DOM Manipulation, Event Handling, API Interactions(fetch/axios)
@@ -63,6 +67,8 @@ Founded and managed ASIC/FPGA/GPU mining operation since 2017
 - Frameworks: HTMX, React + hooks, Svelte, Bootstrap, Tailwind
 
 - HTML/CSS: Proficient in Semantic HTML, Forms and Input Handling, Creating different layouts using CSS including Flexbox and Grid systems, Familiarity with Media Queries, and Responsive Design.
+
+<br />
 
 ## Backend Skills
 
